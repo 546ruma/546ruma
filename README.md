@@ -2,7 +2,7 @@
 <br><br>, I'm Pooja Biswas </h1>
 <h3 align="center">A passionate full-stack developer who loves to learn about new things</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/231375ce-58a3-4c3b-85c8-44ea51d1318f" width="400">
 - 🔭 I’m currently a MCA student. 
 
 - 🌱 Learner & Explorer
