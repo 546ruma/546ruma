@@ -1,4 +1,5 @@
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />, I'm Pooja Biswas </h1>
+<h1 align="center">Hi <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/231375ce-58a3-4c3b-85c8-44ea51d1318f" width="400">
+<br><br>, I'm Pooja Biswas </h1>
 <h3 align="center">A passionate full-stack developer who loves to learn about new things</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
